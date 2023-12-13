@@ -4,7 +4,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomePage from '@/views/HomePage.vue'
 
 const routes = [
-  { path: '/vue-restapi-demo/', name: 'Home', component: HomePage },
+  { path: '/Rest-API-Magic/', name: 'Home', component: HomePage },
   {
     path: '/character/:id',
     name: 'Character',
